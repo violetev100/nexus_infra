@@ -4,3 +4,6 @@
 	Servidor de base de datos
 	Laboratorios
 	Firewall
+	Wifi
+	Camaras
+	Correos
