@@ -1,0 +1,14 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,sans-serif;background:#f4f6f8;color:#222}
+nav{background:#1e3a5f;display:flex;gap:18px;padding:14px 24px;align-items:center}
+nav a{color:#dbe7f5;text-decoration:none}nav a:hover{color:#fff}nav b{color:#fff;margin-right:12px}.out{margin-left:auto}
+main{max-width:900px;margin:24px auto;padding:0 16px}
+table{width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 1px 4px #0002}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid #eee}th{background:#e8eef5}
+form.f{background:#fff;padding:16px;border-radius:8px;margin-bottom:20px;display:flex;gap:10px;flex-wrap:wrap;box-shadow:0 1px 4px #0002}
+input,select{padding:8px;border:1px solid #bbb;border-radius:6px}
+button,.btn{background:#1e3a5f;color:#fff;border:0;padding:8px 14px;border-radius:6px;cursor:pointer;text-decoration:none;font-size:14px}
+.del{background:#b3261e}form.i{display:inline}
+.cards{display:flex;gap:16px;margin-bottom:20px}.card{flex:1;background:#fff;padding:20px;border-radius:8px;text-align:center;box-shadow:0 1px 4px #0002}
+.card b{font-size:32px;display:block;color:#1e3a5f}.err{color:#b3261e}
+.login{max-width:320px;margin:15vh auto;background:#fff;padding:24px;border-radius:8px;box-shadow:0 2px 8px #0003}
+.login input,.login button{width:100%;margin-bottom:10px}
